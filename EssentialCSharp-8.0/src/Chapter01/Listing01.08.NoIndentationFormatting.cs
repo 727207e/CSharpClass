@@ -8,3 +8,6 @@ System.Console.WriteLine("Hello Inigo Montoya");
 }
 }
 }
+
+//가독성이 떨어지는 코드
+//탭 또는 스페이스바

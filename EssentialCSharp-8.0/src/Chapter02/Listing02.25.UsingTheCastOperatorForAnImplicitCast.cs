@@ -9,3 +9,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_25
         }
     }
 }
+
+//캐스팅 형변환

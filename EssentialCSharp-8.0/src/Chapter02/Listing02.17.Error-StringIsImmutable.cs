@@ -16,3 +16,13 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_17
         }
     }
 }
+
+//문자열 소개 - string
+
+
+//대문자로 표현하기
+//string 문자열 클래스에 다양한 활용법
+//.compare 비교
+//.format 초기화
+//.concat 합치기
+//.ToLower, ToUppder , Trim, Replace 등등...

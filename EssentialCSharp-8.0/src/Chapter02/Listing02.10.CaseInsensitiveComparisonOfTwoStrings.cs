@@ -12,3 +12,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_10
         }
     }
 }
+
+//스킵 (string 비교 - true false 로 반환)
