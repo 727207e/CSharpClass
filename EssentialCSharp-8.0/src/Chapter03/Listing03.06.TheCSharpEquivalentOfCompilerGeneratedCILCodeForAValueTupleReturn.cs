@@ -1,13 +1,15 @@
 namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter03.Listing03_06
 {
-    namespace Chapter03
+    public class Program
     {
-        [return: System.Runtime.CompilerServices.TupleElementNames(new string[] { "First", "Second" })]
-        public System.ValueTuple<string, string> ParseNames(string fullName)
+        public static void Main()
         {
-            // ...
+            (string First, string Second, string Third) namedFruits = ("apple", "orange", "banana");
+
+            namedFruits.First = "Eat";
         }
-
     }
-
 }
+
+//튜플 형식
+//값 형식을 튜플로 원하는 형식을 직접 다중 구현하는 방식.
