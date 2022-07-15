@@ -12,3 +12,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter03.Listing03_14
         }
     }
 }
+
+//배열의 크기를 초기화하는 것은 뒤에 해도 가능하다.

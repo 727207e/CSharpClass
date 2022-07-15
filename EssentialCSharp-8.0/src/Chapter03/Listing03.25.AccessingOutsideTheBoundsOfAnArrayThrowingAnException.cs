@@ -6,8 +6,8 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter03.Listing03_25
         {
             string[] languages = new string[9];
             // ...
-            // RUNTIME ERROR: index out of bounds - should
-            // be 8 for the last element
+            //에러 발생
+            //9번까지 정의했으나 배열은 0에서 시작함.
             languages[4] = languages[9];
         }
     }

@@ -11,3 +11,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter03.Listing03_12
         }
     }
 }
+
+//크기 선언
