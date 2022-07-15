@@ -42,3 +42,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_50
         }
     }
 }
+
+//break 문 사용 ( 탈출 )

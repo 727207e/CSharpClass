@@ -20,3 +20,13 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_35
     }
 
 }
+
+//조건 연산자 ?
+
+/*
+ 
+조건이 맞으면 앞 값을, 아니면 뒷 값을 할당 받는 연산자
+
+ 
+ 
+ */

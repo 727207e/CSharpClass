@@ -21,3 +21,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_06
         }
     }
 }
+
+//튜플로 여러값 반환하기

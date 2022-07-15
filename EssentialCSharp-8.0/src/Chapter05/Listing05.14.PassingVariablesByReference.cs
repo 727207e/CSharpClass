@@ -22,3 +22,8 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_14
         }
     }
 }
+
+
+//ref 란?
+
+//ref의 참조란 뜻

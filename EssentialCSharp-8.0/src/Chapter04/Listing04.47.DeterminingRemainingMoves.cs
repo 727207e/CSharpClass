@@ -30,3 +30,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_47
         }
     }
 }
+
+//foreach ¹® »ç¿ë

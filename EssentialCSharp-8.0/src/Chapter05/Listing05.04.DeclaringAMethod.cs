@@ -44,3 +44,6 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_04
 
     }
 }
+
+//반환하는 방식
+// string 이 들어가면 string이 반환 된다.

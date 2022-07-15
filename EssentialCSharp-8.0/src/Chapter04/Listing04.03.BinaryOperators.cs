@@ -23,3 +23,16 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_03
         }
     }
 }
+
+/*
+ 산술 이항 연술자
+ 
+ + - * / %
+
+* 곱하기
+/ 나누기 (결과 값 몫)
+% 나누기 (결과 값 나머지)
+
+컴퓨터 계산 방식 - 사칙연산의 순서를 갖는다.
+ 
+ */

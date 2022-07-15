@@ -44,3 +44,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_23
         }
     }
 }
+
+//Try Catch 오류 잡기
+//에러 발생시 catch로 들어온다.
+//Finally는 에러 발생 여부 상관없이 try로 보호된 영역을 벗어난 후 실행.

@@ -10,3 +10,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_57
         }
     }
 }
+
+//전처리기 정의하기

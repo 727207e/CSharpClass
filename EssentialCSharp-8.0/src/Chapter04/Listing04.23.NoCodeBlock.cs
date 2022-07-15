@@ -11,3 +11,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_23
         }
     }
 }
+
+//첫줄은 {} 가 없어도 사용이 가능하다

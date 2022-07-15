@@ -14,3 +14,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_31
         }
     }
 }
+
+//ppt 24
+
+// Or and ¿¬»êÀÚ

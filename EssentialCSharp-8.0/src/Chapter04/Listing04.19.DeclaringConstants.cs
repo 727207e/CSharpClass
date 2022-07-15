@@ -15,3 +15,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_19
         }
     }
 }
+
+//const - 상수식
+
+//한번 초기화 되면 수정할 수 없음

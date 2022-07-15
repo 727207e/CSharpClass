@@ -31,12 +31,12 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_19
                 Directory.GetCurrentDirectory());
         }
 
-        static int DirectoryCountLines(string directory)
+        static int DirectoryCountLines(string directory)    //같은 함수명이지만 매개변수가 다르다.
         {
             return DirectoryCountLines(directory, "*.cs");
         }
 
-        static int DirectoryCountLines(
+        static int DirectoryCountLines(     ///여기
             string directory, string extension)
         {
             int lineCount = 0;
@@ -77,3 +77,6 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_19
         }
     }
 }
+
+
+//메서드 오버로딩

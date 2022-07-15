@@ -47,3 +47,10 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_36
         }
     }
 }
+
+//null 병합 연산자
+
+//?? 는 해당 값이 null이면 다른 값을 사용한다는 표현
+//식1 ?? 식2 일때 식1 이 null이면 식2 를 사용함.
+
+//해당 내용을 줄이면 ??=

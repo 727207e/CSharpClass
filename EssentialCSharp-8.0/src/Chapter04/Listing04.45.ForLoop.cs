@@ -25,3 +25,18 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_45
         }
     }
 }
+
+//예시 바꿀것. for문 사용
+
+/*
+ 
+for(int i = 0 ; i < count ; i++)
+{
+}
+
+
+for(초기 ; 조건 ; 루프)
+ 
+ 
+ 
+ */

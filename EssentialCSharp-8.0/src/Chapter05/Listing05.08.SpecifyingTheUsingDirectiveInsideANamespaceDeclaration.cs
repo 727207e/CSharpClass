@@ -12,3 +12,4 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_08
         }
     }
 }
+//using을 사용해서 지정한 네임스페이스의 모든 형식을 해당 전체 파일로 가져오기 한다.

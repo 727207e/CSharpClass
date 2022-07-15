@@ -44,3 +44,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_54
         }
     }
 }
+
+//스킵 goto는 안가르침

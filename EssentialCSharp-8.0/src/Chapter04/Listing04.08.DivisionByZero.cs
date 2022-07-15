@@ -10,3 +10,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_08
         }
     }
 }
+
+// 0으로 나눈다는 정의는 없음.

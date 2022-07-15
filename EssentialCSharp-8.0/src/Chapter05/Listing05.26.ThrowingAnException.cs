@@ -36,3 +36,5 @@ public class ThrowingExceptions
   }
 }
 }
+
+//throw new 를 통해 고의로 에러를 던질 수 있음

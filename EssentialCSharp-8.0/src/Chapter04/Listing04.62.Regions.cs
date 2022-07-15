@@ -49,3 +49,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_62
         }
     }
 }
+
+//#region °ú #endregion

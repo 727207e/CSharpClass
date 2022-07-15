@@ -10,3 +10,16 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_05
         }
     }
 }
+
+//ppt 20 
+
+/*
+ '3' <- 51
+ '4' <- 52
+
+더하면 103
+ 
+유니코드에서 103 은 g
+ 
+ 
+ */

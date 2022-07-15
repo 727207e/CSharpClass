@@ -39,3 +39,6 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_48
         }
     }
 }
+
+//switch 문 등장 이유.
+//이렇게 하면 너무 불필요함. switch는 뒤에

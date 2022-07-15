@@ -131,3 +131,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_15
         }
     }
 }
+
+//out 이란
+
+//넣은 값을 해당 변수로 그대로 돌아오는 방식

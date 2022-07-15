@@ -12,3 +12,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_04
         }
     }
 }
+
+//문장 연결하기 "" 와 "" 사이에 + 를 통해서 문장을 합칠 수 있음

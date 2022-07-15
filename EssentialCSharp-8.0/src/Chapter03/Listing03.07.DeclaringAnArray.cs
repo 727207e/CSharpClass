@@ -14,4 +14,4 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter03.Listing03_07
 
 //동일한 데이터 항목 컬렉션을 선언하는 수단.
 //내부의 항목을 인덱스 라고 한다.
-//PPT 참고
+//PPT 18 참고

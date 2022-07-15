@@ -11,3 +11,16 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_10
         }
     }
 }
+
+/*
+ 
+ x -= 2;
+x /= 2;
+x *= 2;
+x %= 2;
+ 
+ 
+ 
+ 
+ 
+ */

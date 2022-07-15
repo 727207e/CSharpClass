@@ -5,7 +5,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_34
         public static void Main()
         {
             bool valid = false;
-            bool result = !valid;
+            bool result = !valid; //°ª ¹ÝÀü
             // Displays "result = True"
             System.Console.WriteLine($"result = { result }");
         }

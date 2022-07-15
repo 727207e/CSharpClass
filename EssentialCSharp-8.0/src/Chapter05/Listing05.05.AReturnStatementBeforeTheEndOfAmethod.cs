@@ -26,3 +26,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter05.Listing05_05
         }
     }
 }
+
+//중간에 return 을 써서 나누기

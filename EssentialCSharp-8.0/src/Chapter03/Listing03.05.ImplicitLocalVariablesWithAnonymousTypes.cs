@@ -19,6 +19,9 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter03.Listing03_05
     }
 }
 
+//ppt 16
+
 //var - 익명 형식
 
 //C#이 스스로 변수형을 맞춰서 진행.
+
