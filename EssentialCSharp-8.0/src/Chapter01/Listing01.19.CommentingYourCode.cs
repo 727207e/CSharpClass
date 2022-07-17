@@ -27,10 +27,14 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter01.Listing01_19
         }
     }
 }
-
+/////
 //주석에 대한 내용 설명
 
-/**/
+/*
+ 
+hi
+ 
+ */
 //
 //////
 ///

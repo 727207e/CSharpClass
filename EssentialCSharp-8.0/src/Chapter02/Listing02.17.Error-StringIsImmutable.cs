@@ -12,6 +12,11 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_17
             // UNEXPECTED: Does not convert text to uppercase
             text.ToUpper();
 
+            string s1 = "hello";
+            string s2 = "world";
+
+            string s3 = s1 + s2; // helloworld
+
             System.Console.WriteLine(text);
         }
     }

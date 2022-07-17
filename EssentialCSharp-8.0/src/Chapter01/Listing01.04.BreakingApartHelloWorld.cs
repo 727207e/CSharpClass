@@ -4,7 +4,13 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter01.Listing01_04
     {
         public static void Main()//皋家靛 备泅
         {
-            System.Console.WriteLine("Hello, My name is Inigo Montoya");    //备巩
+            System.Console.Write("Hello, My name is Inigo Montoya");    //备巩
+            System.Console.Write("Hello, My name is Inigo Montoya");    //备巩
+            System.Console.Write("Hello, My name is Inigo Montoya");    //备巩
+            System.Console.Write("Hello, My name is Inigo Montoya");    //备巩
+            System.Console.Write("Hello, My name is Inigo Montoya");    //备巩
+            System.Console.Write("Hello, My name is Inigo Montoya");    //备巩
+            System.Console.Write("Hello, My name is Inigo Montoya");    //备巩
         }//This is the end of the method
     }//end of the class definition
 }
