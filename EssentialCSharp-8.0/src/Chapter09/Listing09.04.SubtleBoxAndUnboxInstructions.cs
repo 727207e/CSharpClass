@@ -46,3 +46,17 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter09.Listing09_04
         }
     }
 }
+
+
+//박싱과 언박싱
+
+//값형식의 데이터를 참조형식의 데이터로 변환하는 방식
+
+//int i = 3;
+//object j = i; //박싱
+//int k = (int)j; //언박싱
+
+//보통 var kk = 3; 같은 방식을 많이 사용하고,
+//배열은 object[] kk = new object[3]; 과 같은 방식의 참조형 데이터를 많이 사용한다.
+
+//근데 거의 안씀

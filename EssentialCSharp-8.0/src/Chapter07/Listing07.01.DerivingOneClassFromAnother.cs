@@ -17,3 +17,5 @@
         public string? Phone { get; set; }
     }
 }
+
+//Contact는 PdaItem를 상속 받았다

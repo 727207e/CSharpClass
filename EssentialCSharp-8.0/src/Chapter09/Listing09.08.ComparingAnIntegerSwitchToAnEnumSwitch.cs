@@ -55,3 +55,12 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter09.Listing09_08
         }
     }
 }
+
+//enum (열겨형)
+/*
+ 정말 비교를 위해 존재하는 형식
+개발자가 보기 편하도록 다양한 값들을 문자처럼 사용해서 비교를 위해 사용됨.
+ 
+ 
+ */
+//

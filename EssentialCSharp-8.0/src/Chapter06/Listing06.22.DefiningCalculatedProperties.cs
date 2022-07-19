@@ -83,3 +83,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_22
         public Employee? Manager { get; set; }
     }
 }
+
+//스킵

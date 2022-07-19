@@ -22,3 +22,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter09.Listing09_14
         Encrypted = 1 << 14,            // 100000000000000
     }
 }
+
+//½ºÅµ

@@ -10,3 +10,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_05
         public string? Salary = "Not enough";
     }
 }
+
+//바로 초기 값 설정 가능

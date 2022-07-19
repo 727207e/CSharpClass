@@ -65,3 +65,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_26
         }
     }
 }
+
+//스킵

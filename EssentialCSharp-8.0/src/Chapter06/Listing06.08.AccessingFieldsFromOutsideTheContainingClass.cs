@@ -22,6 +22,8 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_08
             Console.WriteLine(
                 $"{ employee1.GetName() }: { employee1.Salary }");
 
+            //외부에서 필드를 접근하고, 함수를 통해서 값을 가져왔다.
+
         }
 
         static void IncreaseSalary(Employee employee)
