@@ -21,7 +21,6 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_17
 
     class Employee
     {
-        // FirstName property
         public string FirstName
         {
             get
@@ -38,3 +37,8 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_17
 
     }
 }
+
+
+//프로퍼티
+
+//이후 전체 스킵

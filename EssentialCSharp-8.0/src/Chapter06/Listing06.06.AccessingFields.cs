@@ -24,7 +24,11 @@
 
         static void IncreaseSalary(Employee employee)
         {
+            //인스턴스 변수에 접근함
             employee.Salary = "Enough to survive on";
         }
     }
 }
+
+
+//10번 줄과 11번,12번 줄은 결국 Employee라는 클래스를 사용해서 다른 인스턴스를 생성했다.

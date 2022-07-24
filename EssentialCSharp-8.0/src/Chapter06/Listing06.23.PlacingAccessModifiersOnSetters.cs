@@ -34,3 +34,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_23
         private string _Id;
     }
 }
+
+//½ºÅµ

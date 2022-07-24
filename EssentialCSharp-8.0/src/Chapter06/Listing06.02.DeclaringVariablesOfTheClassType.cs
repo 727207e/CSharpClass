@@ -9,6 +9,8 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_02
 
     class Program
     {
+        //예제 6-1에 구현된 Employee 클래스를 사용함
+
         static void Main()
         {
             Employee employee1, employee2;

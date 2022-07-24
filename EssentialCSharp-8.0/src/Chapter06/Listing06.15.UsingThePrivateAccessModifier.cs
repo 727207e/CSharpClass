@@ -19,12 +19,6 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_15
             employee.FirstName = "Inigo";
             employee.LastName = "Montoya";
 
-            // ...
-
-            // Password is private, so it cannot be
-            // accessed from outside the class
-            // Console.WriteLine(
-            //    ("Password = {0}", employee.Password);
         }
         // ...
     }
@@ -35,7 +29,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_15
         public string LastName;
         public string? Salary;
         // Working de-crypted passwords for elucidation 
-        // only – this is no recommended.
+        // only ?this is no recommended.
         private string Password;  // Uninitialized pending explanation of constructors
         private bool IsAuthenticated;
 
@@ -55,3 +49,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_15
         // ...
     }
 }
+
+//Á¢±Ù ÇÑÁ¤ÀÚ
+
+//public, private, protected, internal

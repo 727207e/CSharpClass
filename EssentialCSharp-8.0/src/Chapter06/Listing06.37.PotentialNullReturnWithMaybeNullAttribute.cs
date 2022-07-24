@@ -16,3 +16,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_37
                     => sequence.FirstOrDefault(match);
             }
 }
+
+//½ºÅµ

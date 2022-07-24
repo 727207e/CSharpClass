@@ -47,3 +47,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_41
         public string? Salary { get; set; } = "Not Enough";
     }
 }
+
+//½ºÅµ

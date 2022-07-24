@@ -47,3 +47,4 @@
         private Angle _Latitude;
     }
 }
+//스킵

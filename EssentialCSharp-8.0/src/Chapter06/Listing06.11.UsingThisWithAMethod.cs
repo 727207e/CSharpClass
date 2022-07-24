@@ -31,7 +31,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter06.Listing06_11
             this.FirstName = newFirstName;
             this.LastName = newLastName;
             Console.WriteLine(
-                $"Name changed to '{ this.GetName() }'");
+                $"Name changed to '{ this.GetName() }'"); //this를 사용해서 본인 함수 호출.
         }
     }
 }
