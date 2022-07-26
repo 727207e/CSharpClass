@@ -20,3 +20,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter17.Listing17_01
         }
     }
 }
+
+//리스트와 딕셔너리, 큐, 스택
