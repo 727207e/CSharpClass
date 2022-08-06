@@ -76,3 +76,42 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter20.Listing20_01
         }
     }
 }
+
+
+//비동기 await 과 async
+
+/*
+ 
+async Task<int> aaa() 
+
+이라고 쓰며
+Task뒤에 붙은 int가 반환될 변수형이다.
+
+aaa() 라고 쓰면 aaa도 진행되고 메인 쓰레드도 진행된다.
+await aaa()라고 쓰면 aaa가 끝날때 까지 대기한다.
+
+
+async가 붙어야만 await을 쓸 수 있다.
+만약, aaa()안에 await이 들어있다면 메인 쓰레드는 안기다리고 계속 진행할 것이다.
+
+예)
+
+async Task aaa() { 1, 2, await 3, 4}
+
+main()
+{
+
+aaa()
+bbb()
+ccc()
+
+}
+
+aaa가 호출되고, 1, 2 과 진행됨과 동시에 bbb, ccc도 진행되고, aaa는 3이 끝날때 까지 대기한다.
+
+ 
+
+전부 스킵
+
+ 
+ */
