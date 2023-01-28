@@ -16,4 +16,4 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_16
     }
 }
 
-//문자열 길이
+//스킵

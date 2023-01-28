@@ -14,7 +14,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_22
         }
     }
 }
-
+//스킵
 //checked 블록
 
 //예외 처리 - 값을 오버플로 할당이 발생한 경우 예외처리한다.

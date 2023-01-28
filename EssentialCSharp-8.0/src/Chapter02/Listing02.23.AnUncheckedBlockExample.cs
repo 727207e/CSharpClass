@@ -14,5 +14,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_23
         }
     }
 }
-
+//스킵
 //unchecked 예외처리하지않고 데이터를 오버플로 시킨다.
