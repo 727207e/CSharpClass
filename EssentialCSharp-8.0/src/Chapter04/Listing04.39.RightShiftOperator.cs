@@ -13,5 +13,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_39
     }
 }
 
-//쉬프트 연산자
+//쉬프트 연산자 <- 소개만
 

@@ -35,4 +35,26 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_03
 
 컴퓨터 계산 방식 - 사칙연산의 순서를 갖는다.
  
+
+            int number1 = 5;
+            int number2 = 16;
+
+            int plus = number1 + number2;
+            System.Console.WriteLine($"P : {plus}");
+
+            int minus;
+            minus = 5 - number2;
+            System.Console.WriteLine($"Min : {minus}");
+
+            int mult = number1 * 16;
+            System.Console.WriteLine($"Mul : {mult}");
+
+            int quotient;
+            quotient = 16 / 5;
+            System.Console.WriteLine($"Quo : {quotient}");
+
+            int remainder = number2 % 5;
+            System.Console.WriteLine($"Rem : {remainder}");
+
+
  */

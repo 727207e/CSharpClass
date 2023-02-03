@@ -36,6 +36,7 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_37
     }
 }
 
+//스킵
 // ?. 과 ?[]  <- 값이 null인지 체크하는 연산자 (null이면 null)
 //null 조건 연산자
 

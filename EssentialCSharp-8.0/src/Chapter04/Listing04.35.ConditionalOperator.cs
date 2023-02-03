@@ -21,7 +21,8 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_35
 
 }
 
-//조건 연산자 ?
+
+//조건 연산자 ? <- 소개만하고 스킵
 
 /*
  
